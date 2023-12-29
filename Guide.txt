@@ -1,0 +1,10 @@
+Before using this program make sure you have created the email sender app in gmail
+To create the email sender app,
+1.Go to https://myaccount.google.com/
+2. Click on the security button
+3. Click on the 2-FA Authentication and enable it if you have not
+4. Open the 2-FA page and scroll down to App Password
+5. Create a new app by typing the app name in the active text box and
+copy the password code that pops up in the success box
+use the code as your password and your email address as the sender email
+
